@@ -4,4 +4,6 @@
 * Item 1 beautiful
 * Item 2 smart
 * Item 3 creative
-
+As Bradler Cooper said:
+> I've alway been more interested 
+> in the future than in the past.
